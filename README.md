@@ -1,8 +1,27 @@
-# React + Vite
+# Name of the project &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Wawrzynn/challenges-website-react/blob/main/LICENSE)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website created in React that allows user to manage challenges. It was created during [React Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
-Currently, two official plugins are available:
+## Installing / Getting started
+```shell
+npm install
+npm run dev
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+These commands will install all required dependencies and will run the app here [localhost:5137](http://localhost:5173/).
+
+## Developing
+
+### Built With
+Build with React, context-api, Framer Motion and CSS.
+
+### Prerequisites
+To run the up [Node.js](https://nodejs.org/en) is required.
+
+
+### Setting up Dev
+No other steps needed besides one mentioned above.
+
+## Licensing
+
+Project is using MIT LICENSE.
